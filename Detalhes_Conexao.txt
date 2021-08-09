@@ -1,0 +1,17 @@
+nome de anfitrião	dory.srvs.cloudkafka.com
+Região	amazon-web-services :: us-east-1
+Criado em	2021-08-09 18:46 UTC + 00: 00
+Nome do usuário	q4ierpgt
+Senha	iP0mDxxeGkZaWOxamCw4xIjZWG56d9Yl 
+
+
+
+Detalhes de conexão
+Baixar Usando SASL / SCRAM
+Nome do usuário	q4ierpgt
+Senha	iP0mDx ... 
+Prefixo do tópico	q4ierpgt-
+Servidores	
+dory-01.srvs.cloudkafka.com:9094
+dory-02.srvs.cloudkafka.com:9094
+dory-03.srvs.cloudkafka.com:9094
